@@ -74,8 +74,8 @@ let fs = require('fs')
     const ojam = Math.floor( Kurang % (1000 * 60 * 60 * 24) / (1000 * 60 * 60))
     const onet = Math.floor( Kurang % (1000 * 60 * 60) / (1000 * 60))
     const detek = Math.floor( Kurang % (1000 * 60) / 1000)
-        await this.setBio(`☘️ Ultah Ziv San : ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik
-⏲️ Runtime: ${uptime} | 🛰 Mode: ${global.opts['self'] ? 'Private' : setting.groupOnly ? 'Only Group' : 'Public'} | 💌 Made Ziv San`).catch(_ => _)  
+        await this.setBio(`☘️ Ultah Dani : ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik
+⏲️ Runtime: ${uptime} | 🛰 Mode: ${global.opts['self'] ? 'Private' : setting.groupOnly ? 'Only Group' : 'Public'} | 💌 Made DaniGanz`).catch(_  
           setting.status = new Date() * 1  
       } 
   
