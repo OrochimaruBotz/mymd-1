@@ -55,7 +55,7 @@ let fs = require('fs')
      contextInfo: { forwardingScore: 99999, isForwarded: true, 
          externalAdReply: { 
                  sourceUrl: 'https://vt.tiktok.com/ZSRRmS8vh/', 
-             title: 'Ziv San UwU', 
+             title: ' Dani UwU', 
              body: '', 
            thumbnail: await (await fetch('https://telegra.ph/file/de1678007a368fe66c052.jpg')).buffer() 
          } 
