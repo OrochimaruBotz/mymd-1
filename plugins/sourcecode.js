@@ -1,5 +1,5 @@
 let fetch = require('node-fetch')
-let handler = async (m, { conn }) => conn.sendButtonLoc(m.chat, 'https://telegra.ph/file/18c123b72250f8f44a6b8.jpg',
+let handler = async (m, { conn }) => conn.sendButtonLoc(m.chat, 'https://telegra.ph/file/d2475a380a985bdb4c603.jpg',
 `Hi Kak @${m.sender.split('@')[0]} 
 
 ◪ 📮 *SCRIPT BOT*
